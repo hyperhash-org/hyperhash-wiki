@@ -4,52 +4,5 @@ A running log of completed work, organised by phase.
 For full task details, see the Project Board
 .
 
-Phase 0 – Environment Setup
+06.09.2025 - Still trying to push labels through onto the issues on hyperhash-org/project [Deployment]
 
-2025-08-XX
-
-Provisioned core VM (Ubuntu 24.04, UpCloud).
-
-Installed dependencies (Rust, Go, Node.js, Python, Docker).
-
-Configured Nginx + SSL for hh-pool.org.
-
-Created GitHub organisation + repos.
-
-Phase 1 – Core + Stratum
-
-2025-08-XX
-
-Set up bitcoind full node + wallet.
-
-Deployed hh-core service (systemd).
-
-Configured Stratum V1 (standard lane).
-
-Implemented baseline pool.toml config.
-
-Connected test miners successfully.
-
-Phase 2 – Web UI
-
-2025-09-XX
-
-Initial UI scaffold pushed to hyperhash-ui.
-
-Integrated Quasar visualisation (Nonce × Version × Time × Merkle).
-
-Adjusted Quasar: axis transparency, arrowheads, zoom tweaks.
-
-Pushed index.html updates through Git → VM workflow.
-
-Began structuring roadmap for Step 1A → Step 1B tasks.
-
-Phase 3 – Overlay + Stats (planned)
-
-TBD
-
-Lane visualisation bars (SV1 / SV2 lanes).
-
-Miner stats and basic pool metrics.
-
-JSON endpoints for UI consumption.
