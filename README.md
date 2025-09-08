@@ -7,5 +7,20 @@ Contents include:
 - System architecture diagrams
 - SOPs for deployments & updates
 
+## Contents
+
+- Operator SOPs (VM, Nginx, systemd, backups)
+- Contributor onboarding
+- API docs (stats, payouts)
+- Troubleshooting & runbooks
+
+## Editing guidelines
+
+- Keep pages short and task-focused.
+- Use headings, code fences, and checklists.
+- Link to relevant issues/epics on the project board.
+- Add screenshots where helpful.
+
 ## Contributing
-Update docs via pull requests. Use clear headings and examples.
+
+Propose changes via PR to this repo or the GitHub Wiki. License: MIT.
