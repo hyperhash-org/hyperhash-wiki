@@ -1,3 +1,5 @@
+[![CI](https://github.com/hyperhash-org/hyperhash-wiki/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/hyperhash-org/hyperhash-wiki/actions/workflows/ci.yml)
+
 # Hyper Hash — Wiki
 
 This repo holds the documentation for the Hyper Hash project.  
